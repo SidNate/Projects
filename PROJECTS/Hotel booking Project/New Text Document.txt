@@ -1,0 +1,25 @@
+Problem Statement :
+
+
+IMP Concepts to add: REVPAR (Rev avai per room)
+                     Formula: Total Reve/ Total rooms avai to sale
+                     ADR * occupancy also gives REVPAR
+
+                     Occupancy % = Total room occupied/ Total room avai
+                     ADR (Avg daily rate)
+                     Formula ADR = /Total rooms revenue / num of rooms sold
+ 
+                     SRS (Sellable Room nights) , evaluated daily so also called DSRS (daily sella room nights)
+
+                     Concepts related to realization: 
+                       1 Utilised Room nights:
+                       2 booked room nights
+                     Realisation = URN/BRN
+                         BRN = URN + No shows + Cancellations  
+                         
+                     Add filters like weekends(fri,sat not sat,sun) vs weekdays 
+                     Try to shows Trends: Weekly and Monthly
+                     Show Channel Level Split: Which channels and how much they contribute to the bookings
+
+                     Level ! and Level 2 Analysis:
+                     1: Whether problem is there or not 2: Where is the problem exactly
