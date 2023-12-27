@@ -1,4 +1,4 @@
---        PRSQ-01-Medical Data History
+-- Medical Data History
 
 use project_medical_data_history;
 SHOW TABLES;
